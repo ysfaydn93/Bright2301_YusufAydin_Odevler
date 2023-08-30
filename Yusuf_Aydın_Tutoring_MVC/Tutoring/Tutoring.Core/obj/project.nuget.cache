@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QS1QQ5ZaXrudYQNgBmXE+ELP7w7T3/LhzKAtGk1moE5TcWTLLDJCohVS/y5kaoJFi4sv3220TTwHymguUJXEIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\bak\\Tutoring\\Tutoring\\Tutoring.Core\\Tutoring.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

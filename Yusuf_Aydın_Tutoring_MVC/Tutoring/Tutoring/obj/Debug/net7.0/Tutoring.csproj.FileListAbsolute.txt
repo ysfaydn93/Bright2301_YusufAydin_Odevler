@@ -1,0 +1,528 @@
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\appsettings.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.staticwebassets.runtime.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.exe
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.deps.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.runtimeconfig.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Humanizer.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Iyzipay.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.Business.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.Business.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.csproj.AssemblyReference.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfoInputs.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfo.cs
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CoreCompileInputs.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cs
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.Tutoring.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutoring.props
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutoring.props
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutoring.props
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\scopedcss\bundle\Tutoring.styles.css
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\scopedcss\projectbundle\Tutoring.bundle.scp.css
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CopyComplete
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\refint\Tutoring.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\Tutoring.genruntimeconfig.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\obj\Debug\net7.0\ref\Tutoring.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.staticwebassets.runtime.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.exe
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.deps.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.runtimeconfig.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Iyzipay.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Business.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Business.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfo.cs
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cs
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.Tutoring.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutoring.props
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutoring.props
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutoring.props
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\scopedcss\bundle\Tutoring.styles.css
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\scopedcss\projectbundle\Tutoring.bundle.scp.css
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CopyComplete
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\refint\Tutoring.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.genruntimeconfig.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\ref\Tutoring.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\appsettings.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.staticwebassets.runtime.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.exe
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.deps.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.runtimeconfig.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Iyzipay.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Business.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Business.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.Tutoring.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutoring.props
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutoring.props
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutoring.props
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\scopedcss\bundle\Tutoring.styles.css
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\scopedcss\projectbundle\Tutoring.bundle.scp.css
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CopyComplete
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\refint\Tutoring.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\Tutoring.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring\obj\Debug\net7.0\ref\Tutoring.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\appsettings.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.staticwebassets.runtime.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.exe
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.deps.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.runtimeconfig.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Iyzipay.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Business.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Business.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.Tutoring.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutoring.props
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutoring.props
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutoring.props
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\bundle\Tutoring.styles.css
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\projectbundle\Tutoring.bundle.scp.css
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\refint\Tutoring.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\ref\Tutoring.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\appsettings.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.staticwebassets.runtime.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.exe
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.deps.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.runtimeconfig.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Iyzipay.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Business.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Business.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.Tutoring.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutoring.props
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutoring.props
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutoring.props
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\bundle\Tutoring.styles.css
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\projectbundle\Tutoring.bundle.scp.css
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CopyComplete
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\refint\Tutoring.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring\obj\Debug\net7.0\ref\Tutoring.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.staticwebassets.runtime.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.exe
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.deps.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.runtimeconfig.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Iyzipay.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Business.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Business.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.AssemblyInfo.cs
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.RazorAssemblyInfo.cs
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.Tutoring.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutoring.props
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutoring.props
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutoring.props
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\bundle\Tutoring.styles.css
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\scopedcss\projectbundle\Tutoring.bundle.scp.css
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.csproj.CopyComplete
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\refint\Tutoring.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\Tutoring.genruntimeconfig.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring\obj\Debug\net7.0\ref\Tutoring.dll

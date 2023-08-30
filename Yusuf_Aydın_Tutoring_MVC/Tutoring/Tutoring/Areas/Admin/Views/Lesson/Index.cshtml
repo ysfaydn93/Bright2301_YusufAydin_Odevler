@@ -1,0 +1,129 @@
+﻿@model LessonListViewModel
+<div class="row my-2">
+    <div class="col-md-6">
+        <h1 class="display-6">
+            @(Model.SourceAction == "Index" ? "Dersler" : "Silinmiş Dersler")
+        </h1>
+    </div>
+    @if (Model.SourceAction == "Index")
+    {
+        <div class="col-md-6 d-flex align-items-center justify-content-end">
+            <a asp-area="Admin"
+           asp-controller="Lesson"
+           asp-action="Create"
+               class="btn btn-primary">Yeni Ders</a>
+        </div>
+    }
+</div>
+
+@if (Model.LessonViewModelList.Count > 0)
+{
+    <div class="card mb-4">
+        <div class="card-body">
+            <table id="data-table" class="table-striped w-100">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Resim</th>
+                        <th>Ad</th>
+                        <th>Fiyat</th>
+                        <th>Aktif mi?</th>
+                        <th width="100">İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var lesson in Model.LessonViewModelList)
+                    {
+                        <tr>
+                            <td>@lesson.Id</td>
+                            <td>
+                                <img src="~/images/lessons/1.jpg" width="75" height="50">
+                            </td>
+                            <td>@lesson.Name</td>
+                            <td>@($"{lesson.Price:C0}")</td>
+                            <td>
+                                @if (Model.SourceAction == "Index")
+                                {
+                                    <form class="form-check"
+                              asp-area="Admin"
+                              asp-controller="Lesson"
+                              asp-action="UpdateIsActive"
+                              asp-route-id="@lesson.Id"
+                                          id="form-lesson-is-active-@lesson.Id">
+                                        <div class="form-check form-switch">
+                                            <input class="form-check-input"
+                                                   type="checkbox"
+                                                   role="switch"
+                                       id="flexSwitchCheckChecked" @(lesson.IsActive ? "checked" : "")
+                                       onchange="document.getElementById(`form-lesson-is-active-@lesson.Id`).submit();">
+                                        </div>
+
+                                    </form>
+                                }
+                                else
+                                {
+                                    <div class="form-check form-switch">
+                                        <input class="form-check-input"
+                                               type="checkbox"
+                                               role="switch"
+                                   id="flexSwitchCheckChecked" @(lesson.IsActive ? "checked" : "") disabled>
+                                    </div>
+                                }
+                            </td>
+                            <td>
+                                <!-- KALICI OLARAK SİLME BUTONU -->
+                                <a class="btn btn-danger btn-sm"
+                           asp-area="Admin"
+                           asp-controller="lesson"
+                           asp-action="Delete"
+                           asp-route-id="@lesson.Id">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                                @if (Model.SourceAction == "Index")
+                                {
+                                    <!-- SOFT SİLME BUTONU -->
+                                    @await Html.PartialAsync("_lessonDeletePartial", lesson)
+
+                                    <!-- GÜNCELLEME BUTONU -->
+                                    <a class="btn btn-info btn-sm"
+                           asp-area="Admin"
+                           asp-controller="lesson"
+                           asp-action="Edit"
+                           asp-route-id="@lesson.Id">
+                                        <i class="fa-solid fa-pen-to-square"></i>
+                                    </a>
+                                }
+                                else
+                                {
+                                    <a class="btn btn-success btn-sm"
+                                       asp-area="Admin"
+                           asp-controller="lesson"
+                                       asp-action="SoftDelete"
+                           asp-route-id="@lesson.Id">
+                                        <i class="fa-solid fa-arrow-rotate-left"></i>
+                                    </a>
+                                }
+
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert alert-warning" role="alert">
+        Herhangi bir ders bilgisi yoktur.
+    </div>
+}
+
+@section Css{
+    @await Html.PartialAsync("_DataTablesStylesPartial")
+}
+
+@section Js{
+    @await Html.PartialAsync("_DataTablesScriptsPartial")
+}

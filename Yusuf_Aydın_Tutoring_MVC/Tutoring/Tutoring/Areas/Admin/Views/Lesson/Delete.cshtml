@@ -1,0 +1,32 @@
+﻿@model LessonDeleteViewModel
+<h1 class="display-6 text-danger mt-3">Kitap Siliniyor...!</h1>
+<hr />
+<table class="table w-50 table-bordered">
+    <tr>
+        <th>Id:</th>
+        <td>@Model.Id</td>
+        <th>Ad:</th>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <th>Yazar:</th>
+        <td>@Model.TeacherName</td>
+    </tr>
+    <tr>
+        <th>Aktif mi?:</th>
+        <td class="@(Model.IsActive ? "text-success" : "text-danger") fw-bold ">@(Model.IsActive ? "AKTİF" : "PASİF")
+        </td>
+        <th>Ana Sayfa?:</th>
+        <td class="@(!Model.IsHome ? "text-success" : "text-danger") fw-bold ">@(Model.IsHome ? "Ana Sayfa" :
+            "Ana Sayfa Değil")</td>
+    </tr>
+
+</table>
+<a class="btn btn-warning" asp-area="Admin" asp-controller="Lesson" asp-action="Index">Vazgeç</a>
+
+<a class="btn btn-danger" asp-area="Admin" asp-controller="Lesson" asp-action="HardDelete"
+    asp-route-id="@Model.Id">Kalıcı Olarak Sil!</a>
+<div class="mt-2">
+    <label class="text-danger">* @Model.Name Ders, veri tabanından kalıcı olarak
+        silinecektir!</label>
+</div>

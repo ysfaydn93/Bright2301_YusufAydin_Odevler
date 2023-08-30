@@ -1,0 +1,158 @@
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.deps.json
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.runtimeconfig.json
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.exe
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.deps.json
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.runtimeconfig.json
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CopyComplete
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.dll
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\refint\Tutoring.Data.dll
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.genruntimeconfig.cache
+C:\Users\user\source\repos\Tutoring\Tutoring.Data\obj\Debug\net7.0\ref\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.deps.json
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.exe
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.deps.json
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\refint\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Projem\Tutoring.Data\obj\Debug\net7.0\ref\Tutoring.Data.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\refint\Tutoring.Data.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.AssemblyReference.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfoInputs.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfo.cs
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CoreCompileInputs.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.deps.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.runtimeconfig.json
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CopyComplete
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.genruntimeconfig.cache
+C:\Users\erdin\OneDrive\Masaüstü\Projem\Tutoring.Data\obj\Debug\net7.0\ref\Tutoring.Data.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.deps.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.runtimeconfig.json
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfo.cs
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CopyComplete
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\refint\Tutoring.Data.dll
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.genruntimeconfig.cache
+C:\Users\user\Downloads\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\ref\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.deps.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.runtimeconfig.json
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CopyComplete
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\refint\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\wetransfer_projem_2023-08-25_0743\Projem 25\Tutoring.Data\obj\Debug\net7.0\ref\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.deps.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.runtimeconfig.json
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\refint\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\ref\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.deps.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.runtimeconfig.json
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CopyComplete
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\refint\Tutoring.Data.dll
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\son hali\Tutoring\Tutoring.Data\obj\Debug\net7.0\ref\Tutoring.Data.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.deps.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.runtimeconfig.json
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Core.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\bin\Debug\net7.0\Tutoring.Entity.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.AssemblyInfo.cs
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.csproj.CopyComplete
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\refint\Tutoring.Data.dll
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.pdb
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\Tutoring.Data.genruntimeconfig.cache
+C:\Users\user\Downloads\Tutoring\Tutoring\Tutoring.Data\obj\Debug\net7.0\ref\Tutoring.Data.dll
