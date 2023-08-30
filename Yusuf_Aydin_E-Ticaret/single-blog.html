@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Single Blog</title>
+  <!--! Boostrap Icons CDN  -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" />
+  <link rel="stylesheet" href="css/main.css" />
+</head>
+
+<body>
+  <!--! header start  -->
+  <header>
+    <div class="global-notification">
+      <div class="container">
+        <p>
+          TÜM MAYO ÜRÜNLERİNDE YAZ İNDİRİMİ VE ULUSLARARASI ÜCRETSİZ HIZLI TESLİM
+          - %50 İNDİRİM!
+          <a href="shop.html">MAĞAZADA</a>
+        </p>
+      </div>
+    </div>
+    <div class="header-row">
+      <div class="container">
+        <div class="header-wrapper">
+          <div class="header-mobile">
+            <i class="bi bi-list" id="btn-menu"></i>
+          </div>
+          <div class="header-left">
+            <a href="index.html" class="logo">YUSUF AYDIN</a>
+          </div>
+          <div class="header-center" id="sidebar">
+            <nav class="navigation">
+              <ul class="menu-list">
+                <li class="menu-list-item">
+                  <a href="index.html" class="menu-link active">
+                    Anasayfa
+                    <i class="bi bi-chevron-down"></i>
+                  </a>
+                  <div class="menu-dropdown-wrapper">
+                    <ul class="menu-dropdown-content">
+                      <li>
+                        <a href="#">Temizlik Ürünleri</a>
+                      </li>
+                      <li>
+                        <a href="#">Ev Koleksiyonu</a>
+                      </li>
+                      <li>
+                        <a href="#">Modern Ev Ürünleri</a>
+                      </li>
+                      <li>
+                        <a href="#">Dayanıklı Ev Aletleri</a>
+                      </li>
+                      <li>
+                        <a href="#">Ev Dekorasyonu</a>
+                      </li>
+                      <li>
+                        <a href="#">Eşsiz Ev Ürünleri</a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+                <li class="menu-list-item megamenu-wrapper">
+                  <a href="shop.html" class="menu-link">
+                    Mağaza
+                    <i class="bi bi-chevron-down"></i>
+                  </a>
+                  <div class="menu-dropdown-wrapper">
+                    <div class="menu-dropdown-megamenu">
+                      <div class="megamenu-links">
+                        <div class="megamenu-products">
+                          <h3 class="megamenu-products-title">
+                            Mağaza Tarzları
+                          </h3>
+                          <ul class="megamenu-menu-list">
+                            <li>
+                              <a href="#">Standart Alışveriş</a>
+                            </li>
+                            <li>
+                              <a href="#">Eksiksiz Alışveriş Yapın</a>
+                            </li>
+                            <li>
+                              <a href="#">Yalnızca Alışveriş Kategorileri </a>
+                            </li>
+                            <li>
+                              <a href="#">MağazaGörseli Kategorileri</a>
+                            </li>
+                            <li>
+                              <a href="#">Mağaza Alt Kategorileri</a>
+                            </li>
+                            <li>
+                              <a href="#">Mağaza Listesi</a>
+                            </li>
+                            <li>
+                              <a href="#">Stil 1</a>
+                            </li>
+                            <li>
+                              <a href="#">Stil 2</a>
+                            </li>
+                            <li>
+                              <a href="#">Stil 3</a>
+                            </li>
+                          </ul>
+                        </div>
+                        <div class="megamenu-products">
+                          <h3 class="megamenu-products-title">
+                            Fİltre Düzeni
+                          </h3>
+                          <ul class="megamenu-menu-list">
+                            <li>
+                              <a href="#">Kenar Çubuğu</a>
+                            </li>
+                            <li>
+                              <a href="#">Filtre Yan Çıkışı</a>
+                            </li>
+                            <li>
+                              <a href="#">Filtre Açılır Menüsü</a>
+                            </li>
+                          </ul>
+                        </div>
+                        <div class="megamenu-products">
+                          <h3 class="megamenu-products-title">
+                            Mağaza Yükleyicisi
+                          </h3>
+                          <ul class="megamenu-menu-list">
+                            <li>
+                              <a href="#">Alışveris Sayfası</a>
+                            </li>
+                            <li>
+                              <a href="#">Daha Fazla Alışveriş</a>
+                            </li>
+                            <li>
+                              <a href="#">Kart Sayfası</a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="megamenu-single">
+                        <a href="#">
+                          <img src="img/mega-menu.jpg" alt="">
+                        </a>
+                        <h3 class="megamenu-single-title">Alışveriş Bölümü </h3>
+  
+                        <a href="#" class="megamenu-single-button btn btn-sm">Alışveriş Zamanı </a>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="menu-list-item">
+                  <a href="blog.html" class="menu-link">
+                    Blog
+                  </a>
+                </li>
+                <li class="menu-list-item">
+                  <a href="contact.html" class="menu-link">
+                    İletişim
+                  </a>
+                </li>
+              </ul>
+            </nav>
+            <i class="bi-x-circle" id="close-sidebar"></i>
+          </div>
+          <div class="header-right">
+            <div class="header-right-links">
+              <a href="account.html" class="header-account">
+                <i class="bi bi-person"></i>
+              </a>
+              <button class="search-button">
+                <i class="bi bi-search"></i>
+              </button>
+              <a href="#">
+                <i class="bi bi-heart"></i>
+              </a>
+              <div class="header-cart">
+                <a href="cart.html" class="header-cart-link">
+                  <i class="bi bi-bag"></i>
+                  <span class="header-cart-count">0</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!--! header end  -->
+
+  
+
+  <!--! modal dialog start  -->
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <button class="modal-close">
+        <i class="bi bi-x"></i>
+      </button>
+      <div class="modal-image">
+        <img src="img/modal-dialog.jpg" alt="">
+      </div>
+      <div class="popup-wrapper">
+        <div class="popup-content">
+          <div class="popup-title">
+            <h3>BÜLTEN</h3>
+          </div>
+          <p class="popup-text">
+            Bültenimize kaydolun ve kazandığınız özel fırsatları doğrudan gelen kutunuza gelsin!
+  
+          </p>
+          <form class="popup-form">
+            <input type="text" placeholder="E-posta Adresini Buraya Girin">
+            <button class="btn btn-primary">Kayıt Ol</button>
+            <label>
+              <input type="checkbox">
+              <span>Bu açılır pencereyi bir daha gösterme</span>
+            </label>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--! modal dialog end  -->
+
+  <!--! single blog start  -->
+  <section class="single-blog">
+    <div class="container">
+      <article>
+        <figure>
+          <a href="#">
+            <img src="img/blogs/blog1.jpg" alt="">
+          </a>
+        </figure>
+        <div class="blog-wrapper">
+          <div class="blog-meta">
+            <div class="blog-category">
+              <a href="#">
+                KOLEKSİYON
+
+              </a>
+            </div>
+            <div class="blog-date">
+              <a href="#">
+              21 Nisan, 2023
+              </a>
+            </div>
+            <div class="blog-tags">
+              <a href="#">Ürünler</a>,
+              <a href="#">Kabanlar</a>
+            </div>
+          </div>
+          <h1 class="blog-title">Modayı şekillendiren en iyi ürünler</h1>
+          <div class="blog-content">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure delectus laborum beatae sunt cupiditate nesciunt amet debitis, sint sit enim iusto itaque esse sequi adipisci dolor fugiat nisi, omnis nam magnam voluptate. Cupiditate eum molestias, maiores mollitia quod explicabo beatae ex pariatur! Rerum eaque veritatis ea nihil fugiat distinctio aut.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, in rerum. Voluptas ipsum aut, deserunt enim exercitationem accusantium accusamus delectus. Aperiam sapiente consequuntur inventore corporis, voluptatibus non architecto nesciunt animi, modi itaque, repudiandae a quibusdam autem deleniti dolorem illum voluptatum nam! Quae aut aperiam adipisci quidem sequi veniam porro harum?</p>
+
+            <blockquote>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim voluptate officia ducimus blanditiis recusandae explicabo cum, maxime eaque voluptas corporis..</p>
+            </blockquote>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus tempora explicabo et voluptatem sint dolorum totam officia, corrupti, error aperiam magnam recusandae expedita eligendi, provident nesciunt omnis deserunt eum sed ducimus? Modi, et harum accusantium officiis natus quidem eius enim libero autem cupiditate explicabo, aut voluptate sapiente a magnam. Quod?</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero temporibus fuga vero sit culpa omnis minus, architecto magni nam, ut cupiditate! Mollitia laudantium fuga quasi debitis laborum doloremque labore modi! Cum, dolor ullam quas incidunt dignissimos sapiente hic eaque animi debitis temporibus dolore nihil soluta, alias sint unde? In, ducimus?</p>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas est asperiores, ratione similique harum sit rem aut consequatur reprehenderit quod dolores laboriosam non expedita qui ab quisquam nisi facere blanditiis sapiente possimus modi officiis accusantium debitis vitae. Ullam fuga dolorem facilis totam. Autem, deserunt animi tenetur suscipit rem laudantium magnam ipsa magni, molestias sequi iusto perspiciatis cupiditate sapiente. Error quos asperiores repellat perferendis! Eaque ullam veniam laudantium laboriosam deserunt asperiores quisquam error, accusantium at unde expedita impedit qui ducimus nobis aliquid et adipisci excepturi nemo hic debitis quae! Aliquid nesciunt iure molestias dolorem corrupti debitis aperiam consequatur minus ipsa sunt!.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos ut saepe hic impedit atque delectus fugiat aut iste ducimus, ratione possimus vero numquam reiciendis aliquam laudantium recusandae quaerat culpa qui enim officiis accusamus esse eaque. Nam corrupti asperiores adipisci quasi nobis quae, nulla eos repellendus, possimus ut modi est laboriosam.
+            </p>
+          </div>
+        </div>
+      </article>
+      <div class="tab-panel-reviews">
+        <h3>Paçalı Renkli Eşofman Altı için 2 inceleme</h3>
+        <div class="comments">
+          <ol class="comment-list">
+            <li class="comment-item">
+              <div class="comment-avatar">
+                <img src="img/avatars/avatar1.jpg" alt="">
+              </div>
+              <div class="comment-text">
+                <ul class="comment-star">
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                </ul>
+                <div class="comment-meta">
+                  <strong>Yönetici</strong>
+                  <span>-</span>
+                  <time>21 Nisan, 2023</time>
+                </div>
+                <div class="comment-description">
+                  <p>Çok yönlü bir hata olup olmadığını kontrol edin lütfen.</p>
+                </div>
+              </div>
+            </li>
+            <li class="comment-item">
+              <div class="comment-avatar">
+                <img src="img/avatars/avatar1.jpg" alt="">
+              </div>
+              <div class="comment-text">
+                <ul class="comment-star">
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                  <li>
+                    <i class="bi bi-star-fill"></i>
+                  </li>
+                </ul>
+                <div class="comment-meta">
+                  <strong>Yönetici</strong>
+                  <span>-</span>
+                  <time>21 Nisan, 2023</time>
+                </div>
+                <div class="comment-description">
+                  <p>Geri iadesi yapılacak</p>
+                </div>
+              </div>
+            </li>
+          </ol>
+        </div>
+        <!-- comment form start -->
+        <div class="review-form-wrapper">
+          <h2>Yorum ekle</h2>
+          <form class="comment-form">
+            <p class="comment-notes">
+              E-posta adresiniz yayınlanmayacaktır. Gerekli alanlar işaretlenir
+              <span class="required">*</span>
+            </p>
+            <div class="comment-form-rating">
+              <label>
+              Puanınız
+                <span class="required">*</span>
+              </label>
+              <div class="stars">
+                <a href="#" class="star">
+                  <i class="bi bi-star-fill"></i>
+                </a>
+                <a href="#" class="star">
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                </a>
+                <a href="#" class="star">
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                </a>
+                <a href="#" class="star">
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                </a>
+                <a href="#" class="star">
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                  <i class="bi bi-star-fill"></i>
+                </a>
+              </div>
+            </div>
+            <div class="comment-form-comment form-comment">
+              <label for="comment">
+                Yorumunuz
+                <span class="required">*</span>
+              </label>
+              <textarea id="comment" cols="50" rows="10"></textarea>
+            </div>
+            <div class="comment-form-author form-comment">
+              <label for="name">
+                Ad
+                <span class="required">*</span>
+              </label>
+              <input id="name" type="text">
+            </div>
+            <div class="comment-form-email form-comment">
+              <label for="email">
+                Email
+                <span class="required">*</span>
+              </label>
+              <input id="email" type="email">
+            </div>
+            <div class="comment-form-cookies">
+              <input id="cookies" type="checkbox">
+              <label for="cookies">
+                Bir dahaki sefere yorum yapmak için adımı, e-postamı ve web sitemi bu tarayıcıya kaydet.
+                <span class="required">*</span>
+              </label>
+
+            </div>
+            <div class="form-submit">
+              <input type="submit" class="btn submit">
+            </div>
+          </form>
+        </div>
+        <!-- comment form end -->
+      </div>
+    </div>
+  </section>
+  <!--! single blog end  -->
+
+  <!--! policy start  -->
+  <section class="policy">
+    <div class="container">
+      <ul class="policy-list">
+        <li class="policy-item">
+          <i class="bi bi-truck"></i>
+          <div class="policy-texts">
+            <strong>ÜCRETSİZ TESLİMAT</strong>
+            <span>60 TRY'DEN İTİBAREN</span>
+          </div>
+        </li>
+        <li class="policy-item">
+          <i class="bi bi-headset"></i>
+          <div class="policy-texts">
+            <strong>DESTEK 24/7</strong>
+            <span>Canlı 24 saat</span>
+          </div>
+        </li>
+        <li class="policy-item">
+          <i class="bi bi-arrow-clockwise"></i>
+          <div class="policy-texts">
+            <strong> 30 GÜNDE GERİ İADE</strong>
+            <span>Sadece 30 gün içinde iade edin</span>
+          </div>
+        </li>
+        <li class="policy-item">
+          <i class="bi bi-credit-card"></i>
+          <div class="policy-texts">
+            <strong> ÖDEME YÖNTEMİ</strong>
+            <span>Güvenli Ödeme</span>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <!--! policy end  -->
+
+  <!--! footer start  -->
+  <footer class="footer">
+    <div class="subscribe-row">
+      <div class="container">
+        <div class="footer-row-wrapper">
+          <div class="footer-subscribe-wrapper">
+            <div class="footer-subscribe">
+              <div class="footer-subscribe-top">
+                <h3 class="subscribe-title">Yeni ürünler, satışlar ve daha fazlası hakkında bilgi almak için
+                  e-postalarımıza mail gönderin.</h3>
+                <p class="subscribe-desc">İlk siparişinizde 50 TL'nin üzerinde 10 TL indirim için size e-posta ile bir
+                  kupon göndereceğiz.</p>
+              </div>
+              <div class="footer-subscribe-bottom">
+                <form>
+                  <input type="text" placeholder="E-posta Adresini Buraya Girin">
+                  <button class="btn">Abone olun</button>
+                </form>
+                <p class="privacy-text">
+                  Abone olarak şunları kabul etmiş olursunuz: <a href="#">Şartlar ve Koşullar ve Gizlilik ve Çerez
+                    Politikası.</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="footer-contact-wrapper">
+            <div class="footer-contact-top">
+              <h3 class="contact-title">
+                Yardım <br>
+                (+90) 123 456 78 90
+              </h3>
+              <p class="contact-desc">08:00 – 19:00 saatleri arasında hizmetinizdeyiz</p>
+            </div>
+            <div class="footer-contact-bottom">
+              <div class="download-app">
+                <a href="#">
+                  <img src="img/footer/app-store.png" alt="">
+                </a>
+                <a href="#">
+                  <img src="img/footer/google-play.png" alt="">
+                </a>
+              </div>
+              <p class="privacy-text">
+                <strong>Alışveriş Uygulaması:</strong> Odanızda Görüntüle özelliğimizi deneyin, kayıt defterlerini yönetin
+                ve ödeme bilgilerini kaydedin.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="widgets-row">
+      <div class="container">
+        <div class="footer-widgets">
+          <div class="brand-info">
+            <div class="footer-logo">
+              <a href="index.html" class="logo">YUSUF AYDIN</a>
+            </div>
+            <div class="footer-desc">
+              <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima eveniet doloribus repudiandae quod
+                tempora facere.</p>
+            </div>
+            <div class="footer-contact">
+              <p>
+                <a href="tel:555 555 55 55">(+90) 1234 5678 90</a> – <a
+                  href="mailto:info@example.com">info@example.com</a>
+              </p>
+            </div>
+          </div>
+          <div class="widget-nav-menu">
+            <h4>Bilgiler</h4>
+            <ul class="menu-list">
+              <li>
+                <a href="#">Hakkımızda</a>
+              </li>
+              <li>
+                <a href="#">Gizlilik Politikası</a>
+              </li>
+              <li>
+                <a href="#">İade Politikası</a>
+              </li>
+              <li>
+                <a href="#">Nakliye Politikası</a>
+              </li>
+            </ul>
+          </div>
+          <div class="widget-nav-menu">
+            <h4>Hesap</h4>
+            <ul class="menu-list">
+              <li>
+                <a href="#">Tablo</a>
+              </li>
+              <li>
+                <a href="#">Siparişlerim</a>
+              </li>
+              <li>
+                <a href="#">İstek Listem</a>
+              </li>
+              <li>
+                <a href="#">Hesap Ayrıntıları</a>
+              </li>
+              <li>
+                <a href="#">Siparişlerimi Takip Et</a>
+              </li>
+            </ul>
+          </div>
+          <div class="widget-nav-menu">
+            <h4>Mağaza</h4>
+            <ul class="menu-list">
+              <li>
+                <a href="#">Ortak</a>
+              </li>
+              <li>
+                <a href="#">En Çok Satanlar</a>
+              </li>
+              <li>
+                <a href="#">İndirim</a>
+              </li>
+              <li>
+                <a href="#">En Son Ürünler</a>
+              </li>
+              <li>
+                <a href="#">İndirimli Ürünler</a>
+              </li>
+            </ul>
+          </div>
+          <div class="widget-nav-menu">
+            <h4>Kategoriler</h4>
+            <ul class="menu-list">
+              <li>
+                <a href="#">Kadın</a>
+              </li>
+              <li>
+                <a href="#">Erkek</a>
+              </li>
+              <li>
+                <a href="#">Çantalar</a>
+              </li>
+              <li>
+                <a href="#">Kabanlar</a>
+              </li>
+              <li>
+                <a href="#">Ayakkabılar</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="copyright-row">
+      <div class="container">
+        <div class="footer-copyright">
+          <div class="site-copyright">
+            <p>
+              Copyright 2022 © E-Ticaret Teması. Tüm hakları saklıdır. Yusuf Aydın tarafından desteklenmektedir
+            </p>
+          </div>
+          <a href="#">
+            <img src="img/footer/cards.png" alt="">
+          </a>
+          <div class="footer-menu">
+            <ul class="footer-menu-list">
+              <li class="list-item">
+                <a href="#">Gizlilik Politikası</a>
+              </li>
+              <li class="list-item">
+                <a href="#">Şartlar ve Koşullar</a>
+              </li>
+              <li class="list-item">
+                <a href="#">İade Politikası</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!--! footer end  -->
+
+  <!-- javascript  -->
+  <script src="js/main.js" type="module"></script>
+</body>
+
+</html>
